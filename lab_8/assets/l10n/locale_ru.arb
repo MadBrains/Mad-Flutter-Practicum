@@ -1,0 +1,13 @@
+{
+  "login": "Войти",
+  "logout": "Выйти",
+  "currencyRate": "Курс Валют",
+  "news": "Новости",
+  "profile": "Профиль",
+  "theme": "Тема",
+  "light": "Светлая",
+  "dark": "Тёмная",
+  "system": "Системная",
+  "search": "Поиск",
+  "asNominal": "({value} шт.)"
+}

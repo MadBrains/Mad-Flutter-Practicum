@@ -1,0 +1,13 @@
+{
+  "login": "Login",
+  "logout": "Logout",
+  "currencyRate": "Exchange Rate",
+  "news": "News",
+  "profile": "Profile",
+  "theme": "Theme",
+  "light": "Light",
+  "dark": "Dark",
+  "system": "System",
+  "search": "Search",
+  "asNominal": "({value} pcs.)"
+}

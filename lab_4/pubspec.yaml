@@ -1,0 +1,44 @@
+name: mad_flutter_practicum
+description: Mad Flutter Practicum 2025
+version: 0.0.1+1
+publish_to: none
+dev_line_length: 120
+
+environment:
+  sdk: ">=3.6.0 <4.0.0"
+  flutter: ">=3.27.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  provider: 6.1.5
+  url_launcher: 6.3.1
+
+  http: 1.4.0
+  rss_dart: 1.0.13
+  json_annotation: 4.9.0
+
+  intl: 0.20.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: 5.0.0
+
+  build_runner: 2.4.15
+  json_serializable: 6.9.5
+
+flutter:
+  uses-material-design: true
+
+  fonts:
+    - family: Inter
+      fonts:
+        - asset: assets/fonts/Inter-Variable.ttf
+          weight: 500
+
+  assets:
+    - assets/icons/
+    - assets/fonts/
